@@ -1,0 +1,14 @@
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\bin\Debug\SimpleFastSalvage.dll
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\bin\Debug\SimpleFastSalvage.pdb
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\bin\Debug\Assembly-CSharp.dll
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\bin\Debug\Rocket.API.dll
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\bin\Debug\Rocket.Core.dll
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\bin\Debug\Rocket.Unturned.dll
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\bin\Debug\UnityEngine.dll
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\obj\Debug\SimpleFastSalvage.csprojAssemblyReference.cache
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\obj\Debug\SimpleFastSalvage.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\obj\Debug\SimpleFastSalvage.csproj.CopyComplete
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\obj\Debug\SimpleFastSalvage.dll
+C:\Users\alexi\source\repos\SimpleFastSalvage\SimpleFastSalvage\obj\Debug\SimpleFastSalvage.pdb
